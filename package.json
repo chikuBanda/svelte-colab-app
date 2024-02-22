@@ -38,7 +38,7 @@
 	"type": "module",
 	"dependencies": {
 		"canvas": "^2.11.2",
-		"konva": "^9.3.2",
+		"konva": "^9.3.3",
 		"svelte-konva": "^0.3.1"
 	}
 }
